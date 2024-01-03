@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmmed-jubayer-rumman-423699175/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rumman93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rumman93" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rumman93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rumman93" height="30" width="40" /></a>
 </p>
