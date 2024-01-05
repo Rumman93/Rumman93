@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rumman</h1>
 <h3 align="center">A passionate java backend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumman93&label=Profile%20views&color=0e75b6&style=flat" alt="rumman93" /> </p>
+
 - 🔭 I’m currently working on **fintech products**
 
 - 🌱 I’m currently learning **Backend Engineering Fundamentals**
